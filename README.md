@@ -4,3 +4,4 @@
 #### Учусь в Нетологии 
 
 
+https://github.com/AnnaMna/About-me/blob/main/images/netologia-logo.webp
